@@ -36,21 +36,21 @@ Before the session, please make sure you have Python and Jupyter installed. Here
 ## Getting the  code
 
 * You can either download the repository zip file, or clone the repository.
-* Run the example [example.ipynb](/notebooks/example.ipynb) using ipython or jupyter notebooks on your laptop. If it runs, you are all set!
+* Make sure you can open and run the at least one of the notbooks in the introductiory guides. 
 
 If you are familiar with git
 
 ```
-> git clone https://github.com/sgonzalez/wwc-visualization
-> jupyter notebook introduction/example.ipynb
+> git clone https://github.com/SergioGonzalezSanz/wwc-visualisation
+> jupyter notebook introduction/Intro%20to%20pandas.ipynb
 ```
 
 If you want to download the zipfile
 
 ```
-> Download https://github.com/sgonzalez/wwc-visualization/archive/master.zip
+> Download https://github.com/SergioGonzalezSanz/wwc-visualisationmaster.zip
 > unzip the file
 > go to where you unzipped the file
-> jupyter notebook introduction/example.ipynb
+> jupyter notebook introduction/Intro%20to%20pandas.ipynb
 ```
 
