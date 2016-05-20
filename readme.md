@@ -17,11 +17,13 @@ You need to install Python, pandas and a few other libraries. You can follow [th
 
 ## Getting ready to hack
 
-Once you install Python, the libraries, and download the code. you are ready! 
+Once you install Python, the libraries, and download the code. you are ready!
+
+Please complete the following tutorials before attending the hacknight.
 
 
 * Introduction to Pandas : [notebook]  (/introduction/Intro%20to%20matplotlib.ipynb)
-*  Introduction to Pyplot : [notebook]  (/introduction/Intro%20to%20pandas.ipynb)
+* Introduction to Pyplot : [notebook]  (/introduction/Intro%20to%20pandas.ipynb)
 * Introduction to the wine dataset [notebook] (/Intro%20to%20the%20Wine%20Quality%20dataset.ipynb)
 
 
