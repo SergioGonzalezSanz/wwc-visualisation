@@ -1,6 +1,6 @@
 {
-  "name": "Wwc-visualisation",
-  "tagline": "",
+  "name": "WWC-visualisation",
+  "tagline": "An Introduction to visualisation using matplotlib",
   "body": "Welcome  to the Zalando's WWC visualization hacknight. Here you will find all the relevant resources, as well as the code that will be used.\r\n\r\nThe goal of the hacknight is to introduce people to data visualization through a wine dataset. Thus, we will learn about data visualization, while we explore the dataset, understand the data and also learn (a bit) about wine. \r\n\r\nThe hacknight is a relaxed and interactive environment, with people helping you to go through the examples. If you want, you can join a friend and code/hack together.\r\n\r\n## Hacknight\r\n* 6:30 - 7:00 networking and food :pizza: :wine: :wine:\r\n* 7:00 - 8:30 hacking! :bar_chart:\r\n* 8:30 - 8:50 wrap up  :clap:\r\n\r\n\r\n## Installation and getting the code\r\n\r\nYou need to install Python, pandas and a few other libraries. You can follow [this guide](/install.md) to get everything you need. \r\n\r\n\r\n## Getting ready to hack\r\n\r\nOnce you install Python, the libraries, and download the code. you are ready!\r\n\r\nPlease complete the following tutorials before attending the hacknight:\r\n\r\n\r\n* Introduction to Pandas : [notebook]  (/introduction/Intro%20to%20matplotlib.ipynb)\r\n* Introduction to Pyplot : [notebook]  (/introduction/Intro%20to%20pandas.ipynb)\r\n* Introduction to the wine dataset [notebook] (/Intro%20to%20the%20Wine%20Quality%20dataset.ipynb)\r\n\r\n\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
