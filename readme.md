@@ -3,7 +3,7 @@ Welcome  to the Zalando's WWC visualization hacknight. Here you will find all th
 The hacknight is a relaxed and interactive environment, with people helping you to go through the examples. If you want, you can join a friend and code/hack together.
 
 ## Hacknight
-* 6:30 - 7:00 networking and food :pizza: :wine: :wine:
+* 6:30 - 7:00 networking and food :pizza:
 * 7:00 - 8:30 hacking! :bar_chart:
 * 8:30 - 8:50 wrap up  :clap:
 
