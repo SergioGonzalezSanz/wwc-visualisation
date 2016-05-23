@@ -15,7 +15,7 @@ You need to install Python, pandas and a few other libraries. You can follow [th
 
 ## Getting ready to hack
 
-Once you install Python, the libraries, and download the code. you are ready!
+Once you install Python, the libraries, and download the code you are ready!
 
 Please complete the following tutorials before attending the hacknight:
 
